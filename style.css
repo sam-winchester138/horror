@@ -1,0 +1,23 @@
+body{
+    background-color: aliceblue;
+    margin: 0;
+}
+.header{
+    background-color: lightblue;
+    text-align: center;
+    margin: 0;
+    position:relative;
+    padding: 20px;
+}
+.header h1{
+    font-size: 50px;
+    color: black;
+    margin: 0;
+}
+.header button{
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+
+}
